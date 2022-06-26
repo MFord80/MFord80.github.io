@@ -8,3 +8,5 @@ This repository is built step by step in the tutorial.
 It now includes steps for GitHub.
 
 Pull, Push and Branch.
+
+Make changes. Track changes. Keep changes.
