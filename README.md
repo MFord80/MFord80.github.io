@@ -1,12 +1,3 @@
-# hello-world
-Hello World repository for Git tutorial
-This is an example repository for the Git tutorial on https://www.w3schools.com
-This tutorial focuses on Git and using GitHub as its remote.
+# bio
 
-This repository is built step by step in the tutorial.
-
-It now includes steps for GitHub.
-
-Pull, Push and Branch.
-
-Make changes. Track changes. Keep changes.
+This repository was created as example for creating a biographical webpage.
